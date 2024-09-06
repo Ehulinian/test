@@ -106,7 +106,7 @@ const submitForm = async () => {
   height: 560px;
   width: 100%;
   background-color: white;
-  background-image: url('/assets/Subtract (1).svg');
+  background-image: url('/public/assets/Subtract (1).svg');
   background-size: cover;
   background-position: center;
   border-radius: 8px;
